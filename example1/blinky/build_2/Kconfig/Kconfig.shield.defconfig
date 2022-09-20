@@ -1,0 +1,2 @@
+osource "c:/Users/sturkman/Desktop/nRF_Workspace/Custom_Board_1/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.0.2/nrf/boards/shields/*/Kconfig.defconfig"
