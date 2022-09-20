@@ -250,9 +250,8 @@ C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/nrf_hw_m
 C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/nrf_hw_models/CMakeFiles/rebuild_cache.dir
 C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/open-amp/CMakeFiles/edit_cache.dir
 C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/open-amp/CMakeFiles/rebuild_cache.dir
-C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/segger/CMakeFiles/rebuild_cache.dir
-C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/segger/CMakeFiles/modules__segger.dir
 C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/segger/CMakeFiles/edit_cache.dir
+C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/segger/CMakeFiles/rebuild_cache.dir
 C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/tinycbor/CMakeFiles/edit_cache.dir
 C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/tinycbor/CMakeFiles/rebuild_cache.dir
 C:/Users/sturkman/Desktop/nRF_Workspace/example1/blinky/build_2/modules/tinycrypt/CMakeFiles/edit_cache.dir
